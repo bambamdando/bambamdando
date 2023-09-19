@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bambamdando 
+- 👋 Hi, I’m Daniel Vasilev - nicknamed by my friends as "Dando"
 - 👀 I’m interested in International Logistics / Games / Programming / Politics / Travel / Landscaping
 - 🌱 I’m currently learning JS Fundamentals
 
