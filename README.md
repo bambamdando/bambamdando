@@ -10,7 +10,7 @@ githubUsername: 'bambamdando'
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="https://media.tenor.com/-K2MPdlOsxkAAAAC/digital-welcome.gif" width="300"/>
 
 </div>
 
@@ -21,7 +21,6 @@ Happy Coding! 😊
 
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Follow me:</i><br>
 
